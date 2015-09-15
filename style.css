@@ -8,3 +8,6 @@ iframe {
     width:100%;
     border:none;
 }
+html {
+    -webkit-text-size-adjust: 100%;
+}
