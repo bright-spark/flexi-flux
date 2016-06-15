@@ -1,7 +1,6 @@
-[MINIMAL HTML5 & CSS RENDER A "flexi-flux" WEBAPP](http://bright-spark.github.io/flexi-flux-webapp)
+[Minimal HTML5 & CSS needed to render a "flexi-flux" webapp](http://bright-spark.github.io/flexi-flux-webapp)
 
 ```
-
 <!DOCTYPE html>
 
 <html>
@@ -27,10 +26,9 @@
         </style>
     </head>
     <body>
-        <div><iframe src="http://start.duckduckgo.com" name="myiFrame"></iframe></div>
+        <div><iframe src="http://bit.ly/flamingduck" name="flexi-flux"></iframe></div>
     </body>
 </html>
-
 ```
 
 **edited using** [markable.in](https://markable.in/editor/)
