@@ -26,7 +26,7 @@
         </style>
     </head>
     <body>
-        <div><iframe src="http://bit.ly/flamingduck" name="flexi-flux"></iframe></div>
+        <div><iframe src="https://airplay.studio/extreme" name="flexi-flux"></iframe></div>
     </body>
 </html>
 ```
