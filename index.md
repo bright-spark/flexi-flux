@@ -1,6 +1,6 @@
 # flexi-flux
 
-> minimal mock webapp - kinda
+> minimal mock webapp - kinda #muchlove
 
 fullscreen iframe implementation of a hosted source compatible with all modern mobile and desktop HTML5 browsers i.e. Mozilla; Webkit; Chrome
 
