@@ -1,0 +1,8 @@
+title: Flexi-Flux
+description: flexi-flux is a fullscreen iframe implementation of a hosted source compatible with all modern mobile and desktop HTML5 browsers i.e. Mozilla; Webkit; Chrome - duckduckgo is an anonymous search engine and is used in this example and can be found at https://duckduckgo.com
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-leap-day
+
+gems:
+  - jekyll-mentions
