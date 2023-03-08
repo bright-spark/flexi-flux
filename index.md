@@ -1,12 +1,12 @@
 # flexi-flux
 
-> minimal mock webapp - kinda #muchlove
+> minimal webapp ( here be dragons and magick! it made me make things... that became things like PWA's ) #muchlove
 
-fullscreen iframe implementation of a hosted source compatible with all modern mobile and desktop HTML5 browsers i.e. Mozilla; Webkit; Chrome
+fullscreen iframe implementation of a fullscreen embedded / hosted source. it is compatible with all modern mobile and desktop HTML5 browsers i.e. Mozilla; Webkit; Chrome; Opera
 
-_duckduckgo is an anonymous search engine and is used in this example and can be found at https://duckduckgo.com_
-
-
+_theradio fm is a progressive web app using Framework 7 and is used in this example. it can be found at [theradio.fm](https://theradio.fm)_
 
 
-[Stainless Framework - Gadget Lab](http://gadgetlab.xyz)
+
+
+[Carbonized Red - Boutique Agency](http://carbonized.red)
