@@ -1,12 +1,11 @@
 html, body, iframe {
-            -webkit-text-size-adjust: 100%;
-    		margin:0;
-    		padding:0;
-    		height:100%;
-    		}
+    -webkit-text-size-adjust: 100%;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
 iframe {
-    		display:block;
-    		width:100%;
-    		border:none;
-    		}
-
+    display: block;
+    width: 100%;
+    border: none;
+}
